@@ -1,0 +1,6 @@
+Because the differences are shown it is very easy to see the error.
+
+Have a full access to the full history of all versions gives following advantages:
+- better overiew over the versions
+- option to retrive a bad/ error versions
+- gives more confident to try some new staff
